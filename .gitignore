@@ -1,0 +1,13 @@
+# Arquivos sensiveis (NUNCA commitar)
+.env
+.env.local
+
+# Logs
+*.log
+
+# Backups
+backups/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db

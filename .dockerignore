@@ -1,0 +1,19 @@
+# Segredos e ambiente
+.env
+.env.*
+!.env.example
+
+# Git
+.git
+.gitignore
+
+# Documentacao
+*.md
+
+# Logs e backups
+*.log
+backups/
+
+# Arquivos de SO
+.DS_Store
+Thumbs.db
